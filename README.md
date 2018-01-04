@@ -1,0 +1,2 @@
+# nextcoin
+Next coin
